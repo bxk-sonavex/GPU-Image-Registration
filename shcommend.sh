@@ -1,0 +1,2 @@
+flirt -in MR_153359_LXZ_128x128x19_1.79688x1.79688x6.5_3ep_b0_1000_8bit_stripped.nii.gz -ref MRT2_153359_LXZ_512x512x23_0.46875x0.468746x6_2_8bit_stripped.nii.gz -omat matrix.mat
+flirt -in MR_153359_LXZ_128x128x19_1.79688x1.79688x6.5_3ep_b0_1000_8bit.nii.gz -ref MRT2_153359_LXZ_512x512x23_0.46875x0.468746x6_2_8bit.nii.gz - applyxfm -init matrix.mat -out R_MRT2_153359_LXZ_128x128x19_1.79688x1.79688x6.5_8bit.nii.gz
