@@ -1,11 +1,3 @@
-/*
- * Authored by: Chen, Shifu
- * 
- * Email: chen@gmtk.org / sf.chen@ieee.org
- *
- * The code is distributed under BSD license, you are allowed to use, modify or sell this code, but a statement is required if you used this code any where.
- * 
- */
 #ifndef _BBSORT_KERNEL_H_
 #define _BBSORT_KERNEL_H_
 
