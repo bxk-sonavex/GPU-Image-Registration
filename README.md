@@ -4,8 +4,8 @@ This tool is a part of my master's thesis project several years ago (2008-2009),
 It's a GPU implementation of the classicial linear image registeration tool `FLIRT`, with more than 10x performance enhancement   
 
 # Feature
-Register two 3D medical images (i.e. CT images) linearly
-Ultra-fast
+* Register two 3D medical images (i.e. CT images) linearly
+* Ultra-fast
 
 # Build
 Visual Studio 2008 or newer   
